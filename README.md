@@ -26,7 +26,8 @@ distance=((x2-x1)**2+(y2-y1)**2)**(1/2)
 print("{:0.2f}".format(distance))
 ```
 ### OUTPUT:
-![output](distance.png)
+![output](https://github.com/ARAVIND23005370/DISTANCE-BETWEEN-TWO-POINTS/assets/148514836/9d78c088-7076-4974-9b72-9be1d58dafca)
+)
 
 
 ### RESULT:
